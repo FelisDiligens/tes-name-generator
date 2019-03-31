@@ -40,7 +40,6 @@ var Generator = (function(){
         switch (randInt(0, 1)) {
             case 0:
                 return randChunk(data.argonian[gender].middle) + "-" + randChunk(data.argonian[gender].middle);
-                break;
             case 1:
                 return randChunk(data.argonian[gender].begin) + randChunk(data.argonian[gender].end);
         };
