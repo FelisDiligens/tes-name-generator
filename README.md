@@ -2,7 +2,7 @@
 A website, that let's you generate names for The Elder Scrolls characters.
 
 This is the source code. If you'd like to use it, follow this link:
-https://datasnake.bplaced.net/apps/tesnamegen
+http://datasnake.bplaced.net/apps/tesnamegen
 
 ## Thanks to...
 * Aleist3r's [Name generator v1.2](https://www.nexusmods.com/morrowind/mods/45610)
